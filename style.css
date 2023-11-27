@@ -1,0 +1,33 @@
+.first-section{
+display: flex;
+padding-left: 60px;
+padding-right: 60px;
+}
+.first-div{
+padding-right: 200px;
+}
+.tag-1{
+    color: black;
+    padding-bottom: 20px;
+}
+   
+
+.tag-2{
+    color: blueviolet;
+    padding-bottom: 20px;
+}
+.button{
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -o-border-radius: 3px;
+    color: blue;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-right: 25px;
+    padding-left: 25px;
+}
+.second-section{
+    
+}

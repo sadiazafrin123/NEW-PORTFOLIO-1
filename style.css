@@ -32,5 +32,20 @@ padding-right: 200px;
     padding-left: 25px;
 }
 .second-section{
+  
+
     
+}
+.second-section h2{
+    text-align: center;
+}
+.parent-div{
+    display: flex;
+    gap: 120px;
+}
+.parent-div div{
+    padding: 20px;
+    box-shadow:5px 5px 12px 0px;
+    border-radius: 10px;
+
 }
